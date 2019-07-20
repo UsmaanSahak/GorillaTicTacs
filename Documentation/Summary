@@ -1,0 +1,9 @@
+MinecraftClientMixin
+If tactical layer off, use default keybindings. If tactical layer on, then use some new keybindings or functionalities.
+Also, if tactical layer turned on, initialize and call run() on a TacticalMode object.
+
+GameOptionsMixin implements OptionsExtended
+Adds the keyTactical keybinding using the getter method.
+
+GameRendererMixin
+Change Camera here.

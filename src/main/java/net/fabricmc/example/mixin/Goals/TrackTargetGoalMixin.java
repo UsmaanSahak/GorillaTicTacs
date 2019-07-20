@@ -1,4 +1,4 @@
-package net.fabricmc.example.mixin;
+package net.fabricmc.example.mixin.Goals;
 
 import net.fabricmc.example.MinecraftClientExtended;
 import net.fabricmc.example.TacticalHud;

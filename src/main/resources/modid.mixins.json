@@ -5,7 +5,12 @@
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "MinecraftClientMixin",
+    "GameOptionsMixin",
+    "ClientPlayerEntityMixin",
+    "InGameHudMixin",
+    "EvilVillagerEntityModelMixin",
+    "Goals/TrackTargetGoalMixin"
   ],
   "injectors": {
     "defaultRequire": 1

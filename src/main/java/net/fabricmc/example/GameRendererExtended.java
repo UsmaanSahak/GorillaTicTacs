@@ -1,4 +1,8 @@
+/*
 package net.fabricmc.example;
 
-public class GameRendererExtended {
+import net.minecraft.entity.Entity;
+
+public interface GameRendererExtended {
 }
+*/
